@@ -1,0 +1,100 @@
+.car{
+    width: 33% !important;
+    flex-wrap: wrap;
+}
+.button1{
+    margin: 98px 100px;
+    display: flex;
+    width: 223px;
+    height: 143px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #ff005f
+    ;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+.button1 span{
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.button1:hover{
+    opacity: 0.7;
+}
+.car{
+    width: 20%;
+}
+.button2 {
+    color: #fff;
+    margin: 98px -87px !important;
+    display: flex;
+    width: 223px;
+    justify-content: center;
+    align-items: center;
+    height: 143px;
+    padding: 10px;
+    border: none;
+    background-color: #ff005f
+    ;
+    margin: 98px -196px;
+    border-radius: 10px;
+}
+.button2:hover{
+    opacity: 0.7;
+}
+.button2 span{
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.button3{
+    color: #fff;
+    margin: 98px 100px;
+    display: flex;
+    width: 223px;
+    height: 143px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #ff005f
+    ;
+    border: none;
+    border-radius: 10px;
+}
+.button3:hover{
+    opacity: 0.7;
+}
+.button3 span{
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.button4{
+    color: #fff;
+    margin: 98px -80px !important;
+    display: flex;
+    width: 223px;
+    height: 143px;
+    margin: 98px -279px;
+    padding: 10px;
+    border: none;
+    background-color: #ff005f    ;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.button4:hover{
+    opacity: 0.7;
+}
+.button4 span{
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.allbutton {
+    display: flex;
+    margin: -5px 314px;
+}

@@ -1,0 +1,36 @@
+
+
+.img{
+    width: 57%;
+    height: 150px !important;
+}
+.Card a{
+    text-decoration: none !important;
+    text-align: center;
+}
+
+.AddtoCard{
+    background-color:#6a5acd !important;
+    color: #fff !important;
+    margin-left: 40px !important;
+}
+.buynow{
+    background-color: #ee82ee !important;
+    color: #fff !important;
+    margin-left: 30px !important;
+
+}
+.old{
+    margin-left: 20px;
+    color: black;
+    opacity:0.6;
+}
+.titel{
+    color: #6a5acd;
+}
+.new{
+    color: #ee82ee;
+}
+.con{
+    text-align: center !important;
+}

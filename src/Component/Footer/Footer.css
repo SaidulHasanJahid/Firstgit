@@ -1,0 +1,28 @@
+footer{
+    width: 100%;
+    height: 40vh;
+    background-color: #6a5acd;
+    margin: 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: #fff;
+}
+.one{
+    margin-left: 50px;
+}
+.one li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+}
+.one li a:hover{
+    color: #3cb371;
+}
+.one li{
+    list-style: none;
+    line-height: 50px;
+}
